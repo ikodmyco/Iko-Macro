@@ -43,7 +43,7 @@ html, body{
   
   button {
     text-transform: uppercase;
-    background-color: blue;
+    background-color: black;
     color: #fff;
     border: none;
     border-radius: 25px;
@@ -117,7 +117,7 @@ html, body{
   }
   
   .contact .data.mail span {
-    color: blue;
+    color: black;
   }
   
   @media (min-width: 768px) {
