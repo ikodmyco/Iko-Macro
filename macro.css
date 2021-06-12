@@ -34,7 +34,7 @@ html, body{
     text-transform: uppercase;
   }
   header p {
-    color: rgba(255, 255, 255, 0.7);
+    color: white;
   }
   
   p {
@@ -67,7 +67,7 @@ html, body{
   }
   
   .first {
-    background-color: blue;
+    background-color: black;
     color: rgba(255, 255, 255, 0.7);
   }
   .first p {
